@@ -36,7 +36,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [SecureBox](https://github.com/zayd-mzn/SecureBox) | Secure collaborative file sharing platform — role-based access, MFA, file encryption, versioning & real-time collaboration | Python · Flask · React · JWT |
-| [30 Cybersecurity Projects](https://github.com/zayd-mzn/30-cybersecurity-projects) | 30 hands-on security projects covering offensive & defensive techniques — *in progress* | Python · Bash |
+| [30 Cybersecurity Projects](https://github.com/zayd-mzn/30-cybersecurity-projects) | 30 hands-on security projects covering offensive & defensive techniques — *halfway done* | Python · Bash |
 
 ---
 
